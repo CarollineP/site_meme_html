@@ -1,3 +1,3 @@
 # site_meme_html
 
- Uma brincadeira que fiz para me declarar à um amigo usando HTML/CSS e um pouco de Java. Todos aprendidos por meio dos ensinamentos no segundo semestre.
+ Uma brincadeira que fiz para me declarar à um amigo usando HTML e CSS aprendidos na aula de Front-end, com o professor Jaison Schmidt
